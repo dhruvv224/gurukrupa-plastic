@@ -18,8 +18,8 @@ const Header = () => {
   }, []);
 
   const navItems = [
-    { name: "Home", to: "/home" },
-    { name: "Services", to: "/services" },
+    { name: "Home", to: "/" },
+    { name: "Products", to: "/products" },
     { name: "About", to: "/about" },
     { name: "Contact", to: "/contact" },
   ];
